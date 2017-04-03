@@ -1,1 +1,4 @@
 # calculatorStarterCode
+1. This project serves as a basic operating calculator that only takes in two arguments.
+2. This functions by taking in one or two numbers max (x &/or y) and carrying some form of operation. Depending on what operation is being used, Javascript has written functions that will return a value after using a specific function.
+3. If I had more time, I would add other aspects of a calculator to make it more efficient and useful. For example, the calculator is only capable of taking two arguments. I would attempt to add infinitely many arguments to this calculator. In addition, this calculator doesn't allow you to work off of the previous answer. For example, 2*2=4 Answer^2=16. 
